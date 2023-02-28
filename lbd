@@ -1,0 +1,8 @@
+//BASIC SCAN
+COMMAND - lbd <target site> port server
+
+//DESCRIPTION - It is a tool which is used to detect whether the load balancing is enabled in a domain or not.
+
+//EXAMPLE - lbd google.com 443 https
+
+
